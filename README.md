@@ -1,6 +1,6 @@
 # user managment system
-Author: Mostafa Ahmed
-Created on: February 22, 2025
+# Author: Mostafa Ahmed
+# Created on: February 22, 2025
 This project is a great starting point for my learning C#.
 The User Management System is a simple C# console application that allows users to add, remove, search, and display users.
 It provides a basic user database using an array-based storage system with a maximum capacity of 100 users.
